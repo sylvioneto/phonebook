@@ -1,5 +1,5 @@
 # phonebook
-Phonebook application to demonstrate Cloud SQL and Redis usage on Google Cloud
+Phonebook application to demonstrate Firestore and Redis usage on Google Cloud
 
 
 ## Build & Deploy
